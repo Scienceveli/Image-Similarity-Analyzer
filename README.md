@@ -1,6 +1,3 @@
-### **README for Image Similarity Analyzer**
-
----
 
 # **Image Similarity Analyzer**
 
