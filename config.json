@@ -1,0 +1,10 @@
+{
+    "num_images": 100,
+    "weights": {
+        "ssim": 0.4,
+        "orb": 0.3,
+        "sift": 0.3
+    },
+    "output_formats": ["csv", "pdf"],
+    "min_image_resolution": [720, 720]
+}
